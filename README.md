@@ -1,2 +1,2 @@
 # Ledger
-A backend banking API simulation 
+An API gateway middleware simulator
